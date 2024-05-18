@@ -1,0 +1,13 @@
+.htaccess
+/vendor
+storage
+/node_modules
+.env
+.env.testing
+/.npm
+/.composer
+logs
+logs/*
+/.gitconfig
+/node_modules
+/public
